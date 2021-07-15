@@ -1,5 +1,5 @@
 # IntroductionToLinearAlgebra-Chinese-note
-MIT  Gilbert Strang教授的线性导数导论笔记，包含全中文书本内容和视频笔记
+MIT  Gilbert Strang教授的 <线性代数导论>（Introduction To Linear Algebra） 笔记，包含全中文书本内容和视频笔记
 
 
 
